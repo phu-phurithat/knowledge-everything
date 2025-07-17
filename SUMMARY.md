@@ -19,3 +19,4 @@
   * [Troubleshooting](netdata/troubleshooting/README.md)
     * [ปัญหา nginx ingress annotation deprecated](netdata/troubleshooting/nginx-ingress-annotation-deprecated.md)
 * [Jenkins](jenkins.md)
+* [Loki](loki.md)
