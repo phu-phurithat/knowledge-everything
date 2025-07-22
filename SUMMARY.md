@@ -10,7 +10,7 @@
   * [Run on Kubernetes](stacks/hashicorp-vault/run-on-kubernetes.md)
 * [Kubernetes](stacks/kubernetes/README.md)
   * [Installation](stacks/kubernetes/installation.md)
-  * [Page 1](stacks/kubernetes/page-1.md)
+  * [Secure Ingress via cert-manager + letEncrypt](stacks/kubernetes/secure-ingress-via-cert-manager-+-letencrypt.md)
 
 ***
 
@@ -20,3 +20,5 @@
     * [ปัญหา nginx ingress annotation deprecated](netdata/troubleshooting/nginx-ingress-annotation-deprecated.md)
 * [Jenkins](jenkins.md)
 * [Loki](loki.md)
+* [Rancher](rancher/README.md)
+  * [Configuration](rancher/configuration.md)
