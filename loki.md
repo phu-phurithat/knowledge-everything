@@ -223,7 +223,7 @@ config:
 *   **Ingress** Example:
 
     ```yaml
-    yamlCopyEditapiVersion: networking.k8s.io/v1
+    apiVersion: networking.k8s.io/v1
     kind: Ingress
     metadata:
       name: loki-ingress

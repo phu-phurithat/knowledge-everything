@@ -22,3 +22,6 @@
 * [Loki](loki.md)
 * [Rancher](rancher/README.md)
   * [Configuration](rancher/configuration.md)
+* [Grafana](grafana/README.md)
+  * [Access Control](grafana/access-control/README.md)
+    * [How to](grafana/access-control/how-to.md)
