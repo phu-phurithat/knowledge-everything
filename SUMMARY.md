@@ -28,3 +28,4 @@
 * [Grafana](grafana/README.md)
   * [Access Control](grafana/access-control/README.md)
     * [How to](grafana/access-control/how-to.md)
+  * [LDAP](grafana/ldap.md)
